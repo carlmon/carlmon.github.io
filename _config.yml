@@ -14,10 +14,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: spymky.dev
+logo: "/assets/images/spymky-logo.png"
 description: spymky's secure devlopment blog, CTF writeups and general scratchpad for notes
 
 minimal_mistakes_skin: air
 search: false
+locale: en
 
 twitter:
   username: carlmonnig
@@ -69,6 +71,13 @@ author:
     - label: "Hack The Box"
       icon: "fab fa-fw fa-font-awesome-flag"
       url: "https://www.hackthebox.eu/home/users/profile/128268"
+
+# Analytics
+analytics:
+  provider: "google-universal"
+  google:
+    tracking_id: "UA-18877290-3"
+    anonymize_ip: true
 
 footer:
   links:
