@@ -7,8 +7,25 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+.site-logo img {
+  max-height: 4em;
+}
+
+.site-title {
+  visibility: hidden;
+}
+
+.masthead__inner-wrap {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
 a:link, a:visited {
   text-decoration: none;
+}
+
+html {
+  font-size: 18px; // global font size
 }
 
 .archive__subtitle {
