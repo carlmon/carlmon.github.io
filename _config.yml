@@ -70,13 +70,13 @@ author:
   links:
     - label: "Hack The Box"
       icon: "fab fa-fw fa-font-awesome-flag"
-      url: "https://www.hackthebox.eu/home/users/profile/128268"
+      url: "https://app.hackthebox.com/profile/128268"
 
 # Analytics
 analytics:
-  provider: "google-universal"
+  provider: "google-gtag"
   google:
-    tracking_id: "UA-18877290-3"
+    tracking_id: "G-M0QQ8MEPZG"
     anonymize_ip: true
 
 footer:
