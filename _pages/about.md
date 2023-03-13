@@ -5,9 +5,9 @@ title: "About"
 
 Hi, I'm Carl Mönnig 👋
 
-I'm a systems architect and cybersecurity enthusiast.
+I'm a penetration tester and web enthusiast.
 
-* 🔭 I work at [Genasys Technologies](https://genasystech.com/), designing large insurance systems.
-* 🌱 I’m currently learning cloud automation and binary exploitation.
-* 💬 Ask me about: Systems architecture, CTFs, Hack The Box.
-* ⚡ Fun fact: I love experiencing other cultures, learning new things and attending Meetups.
+- 🔭 Status: Working for CyberCX in Auckland, New Zealand.
+- 🌱 Focus: Currently learning mobile pentesting and cryptography maths.
+- 💬 Ask me about: Systems architecture, CTFs, [Hack The Box](https://hackthebox.eu/).
+- ⚡ Fun fact: I love experiencing other cultures, learning new things and attending meetups.
