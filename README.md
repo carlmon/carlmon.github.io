@@ -1,1 +1,1 @@
-Source for the blog page at [spmky.dev](https://spymky.dev/)
+Source for my blog at [spmky.dev](https://spymky.dev/)
